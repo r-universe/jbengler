@@ -5,3 +5,6 @@
 [submodule "tidyheatmaps"]
 	path = tidyheatmaps
 	url = https://github.com/jbengler/tidyheatmaps
+[submodule "tidyplots"]
+	path = tidyplots
+	url = https://github.com/jbengler/tidyplots
